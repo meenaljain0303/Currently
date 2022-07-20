@@ -1,4 +1,5 @@
-# Current-ly
+# Currently : [Currently.io](https://meenaljain0303.github.io/Currently/)
+Shows location-weather data, with bgm music and a to do list!
 
 ## Dependencies
 - OpenWeather API 
