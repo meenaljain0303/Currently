@@ -19,7 +19,7 @@ Web application cum productivity app for general use
 * Search location keywords using the left panel
 * Create your own To-Do list using the right panel
 
-- What it should look like : ![display v0.3](E:\Github\Current-ly\currently-capture.PNG)
+- What it should look like : ![Capture3](https://user-images.githubusercontent.com/75546189/179979649-c1202968-7741-4f80-82e8-a869d4a7a8be.PNG)
 
 ## Why did I build this ?
 - Wanted to develop and learn about web apps.
