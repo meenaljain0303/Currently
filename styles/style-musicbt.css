@@ -1,0 +1,20 @@
+audio {
+    display: none;
+}
+
+#musicbutton {
+    font-size: 16px;
+    position: absolute;
+    top: .3%;
+    left: 95%;
+    transform: translate(1%, 1%);
+    width: 50px;
+    padding: 15px;
+    border: none;
+    border-radius: 30px;
+    outline: none;
+    background: #faf8f8a4(115, 67, 167, 0.8);
+    opacity: 0.8;
+    cursor: pointer;
+    transition: all 0.4s ease-out;
+}
