@@ -5,6 +5,7 @@ Shows location-weather data, with bgm music and a to do list!
 - OpenWeather API 
 - GoogleFont API
 - FontAwesome 6.1.1 CSS Library 
+- VS Code
 
 # WeatherEye v0.1 : 
 Web application cum productivity app for general use
