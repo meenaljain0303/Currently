@@ -7,7 +7,7 @@ Shows location-weather data, with bgm music and a to do list!
 - FontAwesome 6.1.1 CSS Library 
 - VS Code
 
-# Currnetly 1.01 : 
+# Currently 1.01 : 
 Web application cum productivity app for general use
 * Displays weather data for a location :foggy:
 * Quick to do list for quick notedown :memo:
